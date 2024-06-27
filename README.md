@@ -1,6 +1,6 @@
 # mini-redis на русском языке
 
-- [Оригинал](https://github.com/tokio-rs/mini-redis)
+> [Оригинал](https://github.com/tokio-rs/mini-redis)
 
 `mini-redis` - это неполная идиоматичная реализация клиента и сервера
 [Redis](https://redis.io) с помощью
