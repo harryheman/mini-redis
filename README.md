@@ -1,4 +1,4 @@
-# mini-redis на русском языке
+# Mini Redis
 
 > [Оригинал](https://github.com/tokio-rs/mini-redis)
 
